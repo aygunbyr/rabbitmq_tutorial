@@ -1,0 +1,17 @@
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.csproj.AssemblyReference.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.AssemblyInfoInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.AssemblyInfo.cs
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.csproj.CoreCompileInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\bin\Debug\net6.0\SecondConsumer.exe
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\bin\Debug\net6.0\SecondConsumer.deps.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\bin\Debug\net6.0\SecondConsumer.runtimeconfig.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\bin\Debug\net6.0\SecondConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\bin\Debug\net6.0\SecondConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.csproj.CopyComplete
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\refint\SecondConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\SecondConsumer.genruntimeconfig.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\SecondConsumer\obj\Debug\net6.0\ref\SecondConsumer.dll

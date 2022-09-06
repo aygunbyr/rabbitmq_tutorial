@@ -1,0 +1,17 @@
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\bin\Debug\net6.0\FirstConsumer.exe
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\bin\Debug\net6.0\FirstConsumer.deps.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\bin\Debug\net6.0\FirstConsumer.runtimeconfig.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\bin\Debug\net6.0\FirstConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\bin\Debug\net6.0\FirstConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.csproj.AssemblyReference.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.AssemblyInfoInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.AssemblyInfo.cs
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.csproj.CoreCompileInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.csproj.CopyComplete
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\refint\FirstConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\FirstConsumer.genruntimeconfig.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\3-Publish_Subscribe_Pattern\FirstConsumer\obj\Debug\net6.0\ref\FirstConsumer.dll
