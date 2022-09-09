@@ -1,0 +1,17 @@
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.csproj.AssemblyReference.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.AssemblyInfoInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.AssemblyInfo.cs
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.csproj.CoreCompileInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\bin\Debug\net6.0\UserConsumer.exe
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\bin\Debug\net6.0\UserConsumer.deps.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\bin\Debug\net6.0\UserConsumer.runtimeconfig.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\bin\Debug\net6.0\UserConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\bin\Debug\net6.0\UserConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.csproj.CopyComplete
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\refint\UserConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\UserConsumer.genruntimeconfig.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\UserConsumer\obj\Debug\net6.0\ref\UserConsumer.dll

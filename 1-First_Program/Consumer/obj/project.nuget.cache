@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKmIuj5Rze1CJW0jfiLBjQB0qL2iMYvvDjG+FA13XKB6DHtUFF2LCZ0p9WyHXNrK3KiL8+I6lyFJcl86zr+DYg==",
+  "dgSpecHash": "wGDf9aJXfhns3IePfq3c9G1QNDlqwODBgRDTPGYwNZqicTwGzO63n+Vi+sz/ihp4yvJ7SMYp9BzVdyJ9q3Vpxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\turko\\Desktop\\rabbitmq_cs\\consumer\\consumer.csproj",
+  "projectFilePath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\1-First_Program\\Consumer\\consumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\turko\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\turko\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

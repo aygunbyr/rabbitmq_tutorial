@@ -1,0 +1,17 @@
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\bin\Debug\net6.0\AnalyticsConsumer.exe
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\bin\Debug\net6.0\AnalyticsConsumer.deps.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\bin\Debug\net6.0\AnalyticsConsumer.runtimeconfig.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\bin\Debug\net6.0\AnalyticsConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\bin\Debug\net6.0\AnalyticsConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.csproj.AssemblyReference.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.AssemblyInfoInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.AssemblyInfo.cs
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.csproj.CoreCompileInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.csproj.CopyComplete
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\refint\AnalyticsConsumer.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\AnalyticsConsumer.genruntimeconfig.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\4-Routing\AnalyticsConsumer\obj\Debug\net6.0\ref\AnalyticsConsumer.dll
