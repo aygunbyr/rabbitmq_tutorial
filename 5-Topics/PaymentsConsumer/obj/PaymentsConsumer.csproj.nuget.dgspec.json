@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\PaymentsConsumer\\PaymentsConsumer.csproj": {}
+    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\PaymentsConsumer\\PaymentsConsumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\PaymentsConsumer\\PaymentsConsumer.csproj": {
+    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\PaymentsConsumer\\PaymentsConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\PaymentsConsumer\\PaymentsConsumer.csproj",
+        "projectUniqueName": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\PaymentsConsumer\\PaymentsConsumer.csproj",
         "projectName": "PaymentsConsumer",
-        "projectPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\PaymentsConsumer\\PaymentsConsumer.csproj",
+        "projectPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\PaymentsConsumer\\PaymentsConsumer.csproj",
         "packagesPath": "C:\\Users\\turko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\PaymentsConsumer\\obj\\",
+        "outputPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\PaymentsConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turko\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,17 @@
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\bin\Debug\net6.0\Client.exe
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\bin\Debug\net6.0\Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\turko\Desktop\rabbitmq_tutorial\6-Request_Reply\Client\obj\Debug\net6.0\ref\Client.dll

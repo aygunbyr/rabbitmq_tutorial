@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hvb/F0JIhPyumgpuegeyx5oNhakHTrU5Ddwyo/fN9M5EPxgwC000IycoAZQpPIcLs47tPG//MkrDAiWbjinmBA==",
+  "dgSpecHash": "XXf/tloRwAJSFMLf98KjHplIr0RIWl7dhTe++Bdcuuz5c4NwI9jHA5iyVfjkPfAdDCrtdsQwo10Y+25dhpjUVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\AnalyticsConsumer\\AnalyticsConsumer.csproj",
+  "projectFilePath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\AnalyticsConsumer\\AnalyticsConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\turko\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
     "C:\\Users\\turko\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

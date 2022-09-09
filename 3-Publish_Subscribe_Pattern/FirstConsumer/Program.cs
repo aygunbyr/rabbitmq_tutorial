@@ -3,7 +3,7 @@ using System.Text;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-var factory = new ConnectionFactory{HostName = "localhost"};
+var factory = new ConnectionFactory(){HostName = "localhost"};
 
 using var connection = factory.CreateConnection();
 

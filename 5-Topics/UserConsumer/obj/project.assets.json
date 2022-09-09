@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\UserConsumer\\UserConsumer.csproj",
+      "projectUniqueName": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\UserConsumer\\UserConsumer.csproj",
       "projectName": "UserConsumer",
-      "projectPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\UserConsumer\\UserConsumer.csproj",
+      "projectPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\UserConsumer\\UserConsumer.csproj",
       "packagesPath": "C:\\Users\\turko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\4-Routing\\UserConsumer\\obj\\",
+      "outputPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\5-Topics\\UserConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turko\\AppData\\Roaming\\NuGet\\NuGet.Config",

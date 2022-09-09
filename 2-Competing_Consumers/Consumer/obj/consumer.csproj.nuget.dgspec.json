@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\Competing_Consumers\\Consumer\\consumer.csproj": {}
+    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\2-Competing_Consumers\\Consumer\\consumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\Competing_Consumers\\Consumer\\consumer.csproj": {
+    "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\2-Competing_Consumers\\Consumer\\consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\Competing_Consumers\\Consumer\\consumer.csproj",
+        "projectUniqueName": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\2-Competing_Consumers\\Consumer\\consumer.csproj",
         "projectName": "consumer",
-        "projectPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\Competing_Consumers\\Consumer\\consumer.csproj",
+        "projectPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\2-Competing_Consumers\\Consumer\\consumer.csproj",
         "packagesPath": "C:\\Users\\turko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\Competing_Consumers\\Consumer\\obj\\",
+        "outputPath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\2-Competing_Consumers\\Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turko\\AppData\\Roaming\\NuGet\\NuGet.Config",
