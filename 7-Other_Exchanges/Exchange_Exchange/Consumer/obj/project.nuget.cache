@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhUb8spgnXyMIILc7CNYXI4ZfzySIxc/5lqss1SnOkBzhxaaaw6rfaLb03f7mFOhj3ckA42FUrP6qqpOQCMwAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turko\\Desktop\\rabbitmq_tutorial\\7-Other_Exchanges\\Exchange_Exchange\\Consumer\\consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turko\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\turko\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\turko\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
