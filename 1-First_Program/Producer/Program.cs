@@ -17,8 +17,8 @@ channel.QueueDeclare(
 
 var message = "This is my first message";
 
-var encodedMessage = Encoding.UTF8.GetBytes(message);
+var body = Encoding.UTF8.GetBytes(message);
 
-channel.BasicPublish("", "letterbox", null, encodedMessage);
+channel.BasicPublish("", "letterbox", null, body);
 
 Console.WriteLine($"Published message: {message}");
